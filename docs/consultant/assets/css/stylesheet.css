@@ -665,6 +665,9 @@ hr {
   line-height: 25px;
   font-weight: 600;
 }
+.idocs-navigation .nav .nav-link i{
+  padding-right: 10px;
+}
 .idocs-navigation .nav .nav-item:hover > .nav-link, .idocs-navigation .nav .nav-item .nav-link.active {
   font-weight: 700;
 }
