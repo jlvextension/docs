@@ -2764,6 +2764,12 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
   background-color: #0366d6;
   border-color: #0366d6;
 }
+.btn-portfolio {
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 2px;
+}
 .btn-primary:hover {
   background-color: #0355b3;
   border-color: #0355b3;
