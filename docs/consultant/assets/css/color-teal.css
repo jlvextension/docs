@@ -10,7 +10,7 @@ a, a:focus {
 }
 
 a:hover, a:active {
-  color: #1baa80;
+  color: #2e5797;
 }
 
 .primary-menu ul.navbar-nav > li:hover > a:not(.btn), .primary-menu ul.navbar-nav > li > a.active:not(.btn) {
@@ -84,7 +84,7 @@ a:hover, a:active {
 }
 
 .btn-link:hover {
-  color: #1baa80 !important;
+  color: #2e5797 !important;
 }
 
 .text-muted {
@@ -96,7 +96,7 @@ a:hover, a:active {
 }
 
 a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover {
-  background-color: #1baa80 !important;
+  background-color: #2e5797 !important;
 }
 
 .border-primary {
@@ -108,18 +108,18 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
   border-color: #2e5797;
 }
 .btn-primary:hover {
-  background-color: #1baa80;
-  border-color: #1baa80;
+  background-color: #2e5797;
+  border-color: #2e5797;
 }
 
 .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active {
-  background-color: #1baa80;
-  border-color: #1baa80;
+  background-color: #2e5797;
+  border-color: #2e5797;
 }
 
 .btn-primary.focus, .btn-primary:focus {
-  background-color: #1baa80;
-  border-color: #1baa80;
+  background-color: #2e5797;
+  border-color: #2e5797;
 }
 
 .btn-outline-primary, .btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active {
@@ -155,5 +155,5 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
   color: #2e5797;
 }
 .page-link:hover {
-  color: #1baa80;
+  color: #2e5797;
 }
