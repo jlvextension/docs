@@ -2,11 +2,11 @@
 		COLOR Teal
 ==============================*/
 ::selection {
-  background: #20c997;
+  background: #2e5797;
 }
 
 a, a:focus {
-  color: #20c997;
+  color: #2e5797;
 }
 
 a:hover, a:active {
@@ -14,73 +14,73 @@ a:hover, a:active {
 }
 
 .primary-menu ul.navbar-nav > li:hover > a:not(.btn), .primary-menu ul.navbar-nav > li > a.active:not(.btn) {
-  color: #20c997;
+  color: #2e5797;
 }
 .primary-menu ul.navbar-nav > li.dropdown .dropdown-menu li:hover > a:not(.btn) {
-  color: #20c997;
+  color: #2e5797;
 }
 .primary-menu.navbar-line-under-text ul.navbar-nav > li > a:not(.btn):after {
-  border-color: #20c997;
+  border-color: #2e5797;
 }
 
 /*=== Side Navigation ===*/
 .idocs-navigation .nav .nav .nav-item .nav-link.active:after, .idocs-navigation.docs-navigation-dark .nav .nav .nav-item .nav-link.active:after {
-  border-color: #20c997;
+  border-color: #2e5797;
 }
 
 /* Accordion & Toggle */
 .accordion .card-header a:hover.collapsed {
-  color: #20c997 !important;
+  color: #2e5797 !important;
 }
 .accordion:not(.accordion-alternate) .card-header a {
-  background-color: #20c997;
+  background-color: #2e5797;
   color: #fff;
 }
 
 /* Nav */
 .nav:not(.nav-pills) .nav-item .nav-link.active, .nav:not(.nav-pills) .nav-item .nav-link:hover {
-  color: #20c997;
+  color: #2e5797;
 }
 
 .nav-tabs .nav-item .nav-link.active {
   color: #0c2f55;
 }
 .nav-tabs .nav-item .nav-link.active:after {
-  background-color: #20c997;
+  background-color: #2e5797;
 }
 .nav-tabs .nav-item .nav-link:not(.active):hover {
-  color: #20c997;
+  color: #2e5797;
 }
 .nav-tabs.flex-column .nav-item .nav-link.active {
-  color: #20c997;
+  color: #2e5797;
 }
 
 .nav-pills .nav-link:not(.active):hover {
-  color: #20c997;
+  color: #2e5797;
 }
 
 #footer .nav .nav-item .nav-link:focus {
-  color: #20c997;
+  color: #2e5797;
 }
 #footer .nav .nav-link:hover {
-  color: #20c997;
+  color: #2e5797;
 }
 #footer .footer-copyright .nav .nav-link:hover {
-  color: #20c997;
+  color: #2e5797;
 }
 
 /* Back to Top */
 #back-to-top:hover {
-  background-color: #20c997;
+  background-color: #2e5797;
 }
 
 /* Extras */
 .bg-primary, .badge-primary {
-  background-color: #20c997 !important;
+  background-color: #2e5797 !important;
 }
 
 .text-primary, .btn-light, .btn-outline-light:hover, .btn-link, .btn-outline-light:not(:disabled):not(.disabled).active, .btn-outline-light:not(:disabled):not(.disabled):active {
-  color: #20c997 !important;
+  color: #2e5797 !important;
 }
 
 .btn-link:hover {
@@ -100,12 +100,12 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
 }
 
 .border-primary {
-  border-color: #20c997 !important;
+  border-color: #2e5797 !important;
 }
 
 .btn-primary {
-  background-color: #20c997;
-  border-color: #20c997;
+  background-color: #2e5797;
+  border-color: #2e5797;
 }
 .btn-primary:hover {
   background-color: #1baa80;
@@ -123,18 +123,18 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
 }
 
 .btn-outline-primary, .btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active {
-  color: #20c997;
-  border-color: #20c997;
+  color: #2e5797;
+  border-color: #2e5797;
 }
 .btn-outline-primary:hover, .btn-outline-primary:not(:disabled):not(.disabled).active:hover, .btn-outline-primary:not(:disabled):not(.disabled):active:hover {
-  background-color: #20c997;
-  border-color: #20c997;
+  background-color: #2e5797;
+  border-color: #2e5797;
   color: #fff;
 }
 
 .progress-bar,
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link, .dropdown-item.active, .dropdown-item:active {
-  background-color: #20c997;
+  background-color: #2e5797;
 }
 
 .page-item.active .page-link,
@@ -142,17 +142,17 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
 .custom-control-input:checked ~ .custom-control-label::before,
 .custom-checkbox .custom-control-input:checked ~ .custom-control-label:before,
 .custom-control-input:checked ~ .custom-control-label:before {
-  background-color: #20c997;
-  border-color: #20c997;
+  background-color: #2e5797;
+  border-color: #2e5797;
 }
 
 .list-group-item.active {
-  background-color: #20c997;
-  border-color: #20c997;
+  background-color: #2e5797;
+  border-color: #2e5797;
 }
 
 .page-link {
-  color: #20c997;
+  color: #2e5797;
 }
 .page-link:hover {
   color: #1baa80;
