@@ -129,13 +129,6 @@ $(this).magnificPopup({
 
 
 /*------------------------
-   Highlight Js
--------------------------- */
-
-hljs.initHighlightingOnLoad();
-
-
-/*------------------------
    tooltips
 -------------------------- */
 $('[data-toggle=\'tooltip\']').tooltip({container: 'body'});
